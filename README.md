@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Banniere_github_converted](https://github.com/user-attachments/assets/610aa982-bf28-4eed-ab6d-bbe81c98aa15)
+![Hacker_Yamao_Cuzou_landscape_converted](https://github.com/user-attachments/assets/8e722736-2e47-47b3-9c2d-d08b37ca9f7b)
 
 ### À propos de moi 💬
 #### - Etudiant à Ynov Nantes Campus
