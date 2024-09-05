@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**ycuzou22/ycuzou22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### À propos de moi 💬
+#### - Etudiant à Ynov Nantes Campus
+#### - A la recherche d'une Alternance de 3 ans en cybersécurité en contrat d'apprentissage
+#### - 3 ans d'expérience dans le développement
+#### - Débutant en cybersécurité
 
-Here are some ideas to get you started:
+________________________________________________________________________________________
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Futurs Diplômes 🌱
+#### - Diplôme d'Expert en Technologies de l'information
+#### - Diplôme d'Expert en Cyber-Sécurité
+
+________________________________________________________________________________________
+
+### Projet en Cours 🔭
+#### - Meeling (Application de rencontre amical orienté Jeux vidéo)
+
+________________________________________________________________________________________
+
+### Mes Surnoms 😄
+#### - Yams  /  Yamamoto  /  Yamouk  /  YamYam  /  Cuzou
+
+________________________________________________________________________________________
+
+### Je recherche 🤔
+#### - Des professionnels en cyber-sécurité pour apprendre et mieux connaître le métier
+
+________________________________________________________________________________________
+
+### Infos amusantes ⚡
+#### en 2024, des chercheurs ont découvert que certains cybercriminels utilisaient des "chatbots" pour automatiser leurs attaques de phishing.
+#### Ces bots ne se contentaient pas d'envoyer des e-mails trompeurs, mais ils pouvaient aussi engager des conversations avec les victimes,
+#### imitant des interactions humaines pour rendre leurs arnaques encore plus crédibles.
+#### C'est un peu comme si les escrocs avaient leurs propres assistants numériques pour les aider à tromper les gens !
