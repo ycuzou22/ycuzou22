@@ -1,4 +1,4 @@
-![Hacker_Yamao_Cuzou_landscape_converted](https://github.com/user-attachments/assets/8e722736-2e47-47b3-9c2d-d08b37ca9f7b)
+<img width="276" height="266" alt="{46DABB69-10C2-48DE-8C71-A6D0F708F3C0}" src="https://github.com/user-attachments/assets/c99125b6-acf0-4f4a-bff6-1a71ce4bcc7e" />
 ### À propos de moi 💬
 #### - Etudiant à Ynov Nantes Campus
 #### - A la recherche d'une Alternance de 3 ans en cybersécurité en contrat d'apprentissage
