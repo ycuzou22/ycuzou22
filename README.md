@@ -1,4 +1,5 @@
-<img width="276" height="266" alt="{46DABB69-10C2-48DE-8C71-A6D0F708F3C0}" src="https://github.com/user-attachments/assets/c99125b6-acf0-4f4a-bff6-1a71ce4bcc7e" />
+<img width="1254" height="1254" alt="ChatGPT Image 14 sept  2026, 10_15_16" src="https://github.com/user-attachments/assets/b0518ee5-344a-489a-813a-78a749941fb2" />
+
 ### À propos de moi 💬
 #### - Etudiant à Ynov Nantes Campus
 #### - A la recherche d'une Alternance de 3 ans en cybersécurité en contrat d'apprentissage
