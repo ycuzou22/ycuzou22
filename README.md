@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="ChatGPT Image 14 sept  2026, 10_15_16" src="https://github.com/user-attachments/assets/b0518ee5-344a-489a-813a-78a749941fb2" />
+<img width="2172" height="724" alt="ChatGPT Image 14 sept  2026, 10_23_53" src="https://github.com/user-attachments/assets/b2c573aa-8225-4728-83ab-3068442c59b3" />
 
 ### À propos de moi 💬
 #### - Etudiant à Ynov Nantes Campus
